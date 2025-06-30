@@ -40,7 +40,7 @@ This is the centerpiece of my portfolio—a complete, containerized REST API bui
 
 ### 📈 Other Portfolio Projects
 
-- **[Data Structures & Algorithms Solutions](https://github.com/udara-lakshitha/python-backend-sprint-portfolio/tree/main/04-dsa-essentials)**: A log of solved classic DSA problems, proving readiness for technical interviews.
+- **[Data Structures & Algorithms Solutions](https://github.com/udara-lakshitha/python-backend-sprint-portfolio/tree/main/04-dsa-essentials/solved_problems.md)**: A log of solved classic DSA problems, proving readiness for technical interviews.
 - **[Sales Data Analysis Script](https://github.com/udara-lakshitha/python-backend-sprint-portfolio/tree/main/02-data-analysis-basics)**: A script demonstrating data manipulation and analysis skills with Pandas.
 
 ---
