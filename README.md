@@ -10,37 +10,57 @@
 
 ### 👨‍💻 About Me
 
-I am a pragmatic and highly-motivated **Backend Developer** from Sri Lanka with a passion for building robust, scalable, and end-to-end applications. I excel in containerized environments and have a strong foundation in modern Python backend technologies. My goal is to leverage these skills in a challenging remote role to solve real-world problems.
+I am a results-driven **Full-Stack Software Engineer** with 7+ years of experience (5+ freelance, 2+ industry) delivering high-impact applications across fintech, SaaS, and enterprise domains. I specialize in designing **scalable backend systems**, creating **dynamic frontends**, and integrating **cloud-hosted databases** for production-ready deployments.  
+
+I thrive in building end-to-end solutions that combine **robust APIs, modern frontend frameworks, and predictive analytics/AI capabilities** to solve real-world business challenges.
 
 ---
 
 ### 🛠️ My Tech Stack
 
-- **Languages:** `Python` `SQL` `Java` `TypeScript` `C#`
-- **Backend:** `FastAPI` `Spring Boot` `ASP.NET` `SQLModel`
-- **Databases:** `PostgreSQL` `MySQL`
-- **DevOps & Tools:** `Docker` `Docker Compose` `Git` `GitHub`
-- **Libraries:** `Pandas` `NumPy` `Pydantic`
+- **Languages:** Python, Java, SQL, TypeScript, C#
+- **Backend:** FastAPI, Spring Boot, ASP.NET, SQLModel, SQLAlchemy, Hibernate
+- **Frontend:** React, Angular 
+- **Databases:** PostgreSQL, MySQL
+- **Data & AI/ML:** Pandas, NumPy, Matplotlib, TensorFlow, PyTorch, Predictive Analytics 
+- **DevOps & Tools:** Docker, Docker Compose, Git, CI/CD pipelines, IntelliJ, VS Code
+- **Cloud & Platforms:** AWS (EC2, S3), Back4App, Netlify
 
 ---
 
-### 🌟 Lighthouse Project: Deployed User & Post API
+### 🌟 Lighthouse Projects
 
-This is the centerpiece of my portfolio—a complete, containerized REST API built with FastAPI and backed by a PostgreSQL database. It demonstrates the full modern backend development lifecycle.
+### **Smart Weather App** | Java, Spring Boot, React, PostgreSQL, Docker, Back4App  
+A full-stack weather reporting application demonstrating **end-to-end development** from backend APIs to frontend dynamic charts.  
+**Key Features:**  
+✅ Full CRUD APIs for weather reports with secure endpoints  
+✅ Persistent storage with PostgreSQL (Neon) and Back4App integration  
+✅ Containerized backend and database with Docker for seamless deployment  
+✅ Dynamic frontend with React charts for live data visualization  
+[View Project →](https://github.com/udara-lakshitha/smart-weather)  
 
-**[➡️ Click here to view the project's code, architecture, and detailed README.](https://github.com/udara-lakshitha/python-backend-sprint-portfolio/tree/main/05-user-post-api)**
+### **User & Post Management API** | Python, FastAPI, PostgreSQL, Docker, SQLModel  
+A fully containerized backend API showcasing modern **Python backend development** practices.  
+**Key Features:**  
+✅ CRUD operations for Users and Posts with relational schema  
+✅ Dockerized stack with robust startup sequencing using a Python waiter script  
+✅ Demonstrates scalable and maintainable backend architecture  
+[View Project →](https://github.com/udara-lakshitha/user-post-api)  
 
-#### Key Features:
-- ✅ **Full CRUD Functionality** for related User and Post models.
-- ✅ **Relational Database Schema** with foreign key constraints for data integrity.
-- ✅ **Containerized Stack** using Docker and Docker Compose for portability.
-- ✅ **Robust Startup Sequence** with a Python-based waiter script to handle container race conditions.
+### **Sales Data Analysis Script** | Python, Pandas, NumPy  
+A data-driven project demonstrating **advanced data manipulation and analysis** skills.  
+**Key Features:**  
+✅ Clean, aggregate, and visualize business datasets from CSV  
+✅ Provides actionable insights for data-informed decision-making  
+[View Project →](https://github.com/udara-lakshitha/data-analysis)  
 
 ---
 
-### 📈 Other Portfolio Projects
+## 📈 Other Portfolio Highlights  
 
-- **[Data Structures & Algorithms Solutions](https://github.com/udara-lakshitha/python-backend-sprint-portfolio/tree/main/04-dsa-essentials/solved_problems.md)**: A log of solved classic DSA problems, proving readiness for technical interviews.
-- **[Sales Data Analysis Script](https://github.com/udara-lakshitha/python-backend-sprint-portfolio/tree/main/02-data-analysis-basics)**: A script demonstrating data manipulation and analysis skills with Pandas.
+- **Data Structures & Algorithms Solutions** – Solved classic DSA problems, showcasing **problem-solving readiness** for technical interviews.  
+- **Freelance Projects** – 50+ delivered applications spanning fintech, e-commerce, and analytics domains.
 
 ---
+
+
