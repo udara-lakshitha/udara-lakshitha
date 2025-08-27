@@ -37,7 +37,7 @@ A full-stack weather reporting application demonstrating **end-to-end developmen
 ✅ Persistent storage with PostgreSQL (Neon) and Back4App integration  
 ✅ Containerized backend and database with Docker for seamless deployment  
 ✅ Dynamic frontend with React charts for live data visualization  
-[View Project →]([https://github.com/udara-lakshitha/smart-weather](https://github.com/udara-lakshitha/fullstack-projects-portfolio/tree/main/smart-weather))  
+[View Project →](https://github.com/udara-lakshitha/fullstack-projects-portfolio/tree/main/smart-weather)
 
 ### **User & Post Management API** | Python, FastAPI, PostgreSQL, Docker, SQLModel  
 A fully containerized backend API showcasing modern **Python backend development** practices.  
@@ -45,14 +45,14 @@ A fully containerized backend API showcasing modern **Python backend development
 ✅ CRUD operations for Users and Posts with relational schema  
 ✅ Dockerized stack with robust startup sequencing using a Python waiter script  
 ✅ Demonstrates scalable and maintainable backend architecture  
-[View Project →]([https://github.com/udara-lakshitha/user-post-api](https://github.com/udara-lakshitha/python-backend-sprint-portfolio/tree/main/05-user-post-api))  
+[View Project →](https://github.com/udara-lakshitha/python-backend-sprint-portfolio/tree/main/05-user-post-api)
 
 ### **Sales Data Analysis Script** | Python, Pandas, NumPy  
 A data-driven project demonstrating **advanced data manipulation and analysis** skills.  
 **Key Features:**  
 ✅ Clean, aggregate, and visualize business datasets from CSV  
 ✅ Provides actionable insights for data-informed decision-making  
-[View Project →]([https://github.com/udara-lakshitha/data-analysis](https://github.com/udara-lakshitha/python-backend-sprint-portfolio/tree/main/02-data-analysis-basics))  
+[View Project →](https://github.com/udara-lakshitha/python-backend-sprint-portfolio/tree/main/02-data-analysis-basics)
 
 ---
 
