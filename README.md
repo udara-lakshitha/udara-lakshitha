@@ -28,7 +28,7 @@ A fully responsive Netflix-inspired app built with **React**, **Firebase**, and 
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,firebase,git,github,vercel,netlify,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,firebase,git,github,vercel,netlify,vscode,mongodb&perline=6" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ A fully responsive Netflix-inspired app built with **React**, **Firebase**, and 
   <a href="https://www.linkedin.com/in/udara-lakshitha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:udaralakshitha@gmail.com">
+  <a href="mailto:lakshithau95@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
