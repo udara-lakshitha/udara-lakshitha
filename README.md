@@ -1,66 +1,63 @@
-# 👋 Hi, I'm Udara Lakshitha
+<h1 align="center">👋 Hi, I'm Udara Lakshitha</h1>
 
-<p align="left">
+<p align="center">
+  🚀 <b>Full-Stack Developer</b> | React & Node.js Enthusiast | Crafting Modern, Scalable & Intelligent Web Experiences
+</p>
+
+---
+
+### 🧠 About Me
+I'm a **Full-Stack Developer** passionate about building clean, high-performance web applications with **React**, **Node.js**, and **Firebase**.  
+I love turning complex ideas into elegant digital products that balance performance, design, and usability.
+
+💻 I specialize in:
+- ⚛️ **React.js** — Modern front-end architecture, hooks, and reusable components  
+- 🧩 **Node.js & Express** — Building scalable backends and RESTful APIs  
+- 🔥 **Firebase** — Authentication, Firestore, and hosting  
+- 🎨 **UI/UX** — Pixel-perfect interfaces, responsive design, and smooth user journeys  
+- ☁️ **Deployment** — Vercel, Netlify, and GitHub Actions  
+
+---
+
+### 🎬 Featured Project
+
+**[Netflix Clone → Live Demo](https://udara-flix.vercel.app)**  
+A fully responsive Netflix-inspired app built with **React**, **Firebase**, and the **TMDB API**, featuring user authentication, movie browsing, and real-time trailer previews.
+
+---
+
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,firebase,git,github,vercel,netlify,vscode&perline=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udara-lakshitha&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udara-lakshitha&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 🌱 Currently Exploring
+- Next.js  
+- Advanced React patterns  
+- Scalable backend design with Node.js & TypeScript  
+
+---
+
+### 🤝 Connect With Me
+<p align="center">
   <a href="https://www.linkedin.com/in/udara-lakshitha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:udaralakshitha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-I am a results-driven **Full-Stack Software Engineer** with 7+ years of experience (5+ freelance, 2+ industry) delivering high-impact applications across fintech, SaaS, and enterprise domains. I specialize in designing **scalable backend systems**, creating **dynamic frontends**, and integrating **cloud-hosted databases** for production-ready deployments.  
-
-I thrive in building end-to-end solutions that combine **robust APIs, modern frontend frameworks, and predictive analytics/AI capabilities** to solve real-world business challenges.
-
----
-
-### 🛠️ My Tech Stack
-
-- **Languages:** Python, Java, SQL, TypeScript, C#
-- **Backend:** FastAPI, Spring Boot, ASP.NET, SQLModel, SQLAlchemy, Hibernate
-- **Frontend:** React, Angular 
-- **Databases:** PostgreSQL, MySQL
-- **Data & AI/ML:** Pandas, NumPy, Matplotlib, TensorFlow, PyTorch, Predictive Analytics 
-- **DevOps & Tools:** Docker, Docker Compose, Git, CI/CD pipelines, IntelliJ, VS Code
-- **Cloud & Platforms:** AWS (EC2, S3), Back4App, Netlify
-
----
-
-### 🌟 Lighthouse Projects
-
-### **Smart Weather App** | Java, Spring Boot, React, PostgreSQL, Docker, Back4App  
-A full-stack weather reporting application demonstrating **end-to-end development** from backend APIs to frontend dynamic charts.  
-**Key Features:**  
-✅ Full CRUD APIs for weather reports with secure endpoints  
-✅ Persistent storage with PostgreSQL (Neon) and Back4App integration  
-✅ Containerized backend and database with Docker for seamless deployment  
-✅ Dynamic frontend with React charts for live data visualization  
-[View Project →](https://github.com/udara-lakshitha/fullstack-projects-portfolio/tree/main/smart-weather)
-
-### **User & Post Management API** | Python, FastAPI, PostgreSQL, Docker, SQLModel  
-A fully containerized backend API showcasing modern **Python backend development** practices.  
-**Key Features:**  
-✅ CRUD operations for Users and Posts with relational schema  
-✅ Dockerized stack with robust startup sequencing using a Python waiter script  
-✅ Demonstrates scalable and maintainable backend architecture  
-[View Project →](https://github.com/udara-lakshitha/python-backend-sprint-portfolio/tree/main/05-user-post-api)
-
-### **Sales Data Analysis Script** | Python, Pandas, NumPy  
-A data-driven project demonstrating **advanced data manipulation and analysis** skills.  
-**Key Features:**  
-✅ Clean, aggregate, and visualize business datasets from CSV  
-✅ Provides actionable insights for data-informed decision-making  
-[View Project →](https://github.com/udara-lakshitha/python-backend-sprint-portfolio/tree/main/02-data-analysis-basics)
-
----
-
-## 📈 Other Portfolio Highlights  
-
-- **Data Structures & Algorithms Solutions** – Solved classic DSA problems, showcasing **problem-solving readiness** for technical interviews.  
-- **Freelance Projects** – 50+ delivered applications spanning fintech, e-commerce, and analytics domains.
-
----
-
-
+⭐ **“Always learning. Always building.”**
