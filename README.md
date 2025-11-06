@@ -21,7 +21,7 @@ I love turning complex ideas into elegant digital products that balance performa
 
 ### 🎬 Featured Project
 
-**[Netflix Clone → Live Demo](https://udara-flix.vercel.app)**  
+**[Netflix Clone → Live Demo](https://netflix-clone-umber-gamma-66.vercel.app/)**  
 A fully responsive Netflix-inspired app built with **React**, **Firebase**, and the **TMDB API**, featuring user authentication, movie browsing, and real-time trailer previews.
 
 ---
