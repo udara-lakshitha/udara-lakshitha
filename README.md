@@ -1,63 +1,40 @@
-<h1 align="center">👋 Hi, I'm Udara Lakshitha</h1>
+# Hi, I'm Udara Lakshitha 🚀
 
-<p align="center">
-  🚀 <b>Full-Stack Developer</b> | React & Node.js Enthusiast | Crafting Modern, Scalable & Intelligent Web Experiences
-</p>
+Systems-oriented Full Stack Software Engineer focused on building cloud-native, high-concurrency web architectures, strict data persistence engines, and secure asynchronous API pipelines.
 
----
+### 🧠 Profile Core
 
-### 🧠 About Me
-I'm a **Full-Stack Developer** passionate about building clean, high-performance web applications with **React**, **Node.js**, and **Firebase**.  
-I love turning complex ideas into elegant digital products that balance performance, design, and usability.
+I engineer production-grade applications that balance highly responsive user interfaces with scalable, resilient backend systems. My core expertise centers around optimizing asynchronous backend pathways, managing complex relational database schemas, and continuous cloud deployment pipelines.
 
-💻 I specialize in:
-- ⚛️ **React.js** — Modern front-end architecture, hooks, and reusable components  
-- 🧩 **Node.js & Express** — Building scalable backends and RESTful APIs  
-- 🔥 **Firebase** — Authentication, Firestore, and hosting  
-- 🎨 **UI/UX** — Pixel-perfect interfaces, responsive design, and smooth user journeys  
-- ☁️ **Deployment** — Vercel, Netlify, and GitHub Actions  
+### 💻 Core Specializations
 
----
+* Asynchronous Architectures — Designing event-driven, non-blocking REST APIs using FastAPI and Python for optimal request-matching throughput.
+* Database & Systems Engineering — Modeling complex relational schemas, entity relations, and structured transaction tracking layers utilizing PostgreSQL and SQLAlchemy ORM.
+* Frontend Systems — Architecting responsive client interfaces using React and Tailwind CSS optimized for state management and cross-device performance.
+* DevOps & Cloud Pipelines — Containerizing runtime environments and deploying isolated backend containers via Back4app integrated with distributed CDNs like Netlify.
 
-### 🎬 Featured Project
+### 🛠️ Ecosystem Tech Stack
 
-**[Netflix Clone → Live Demo](https://netflix-clone-umber-gamma-66.vercel.app/)**  
-A fully responsive Netflix-inspired app built with **React**, **Firebase**, and the **TMDB API**, featuring user authentication, movie browsing, and real-time trailer previews.
+* Backend: Python, FastAPI, Node.js, Express
+* Frontend: React, Vite, Next.js, Tailwind CSS
+* Database & Storage: PostgreSQL, SQL, Firebase Firestore
+* Cloud & DevOps: Back4app, Docker, Netlify, Vercel, GitHub Actions
 
----
+### 🎬 Featured Core Projects
 
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,html,css,firebase,git,github,vercel,netlify,vscode,mongodb&perline=6" />
-</p>
+#### HQ-OVERSIGHT: High-Concurrency Assessment Portal
+An automated full-stack evaluation ecosystem developed to handle live transaction workloads, secure route protection, and dynamic analytical progression mapping.
+* Backend: https://github.com/udara-lakshitha/hq-oversight-backend
+* Frontend: https://github.com/udara-lakshitha/hq-oversight-frontend
+* Core Implementation: Asynchronous Python REST framework with connection-pooled Neon PostgreSQL database layers, secure JWT token authentication, and cryptographic passcode verification grids dispatched via Resend API.
 
----
+### 🌱 Active Technical Tracks
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udara-lakshitha&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udara-lakshitha&layout=compact&theme=tokyonight" height="150" />
-</p>
+* Distributed systems scaling parameters
+* Advanced query execution optimization in relational databases
+* Cloud container orchestration patterns
 
----
+### 🤝 Connect & Collaborate
 
-### 🌱 Currently Exploring
-- Next.js  
-- Advanced React patterns  
-- Scalable backend design with Node.js & TypeScript  
-
----
-
-### 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/udara-lakshitha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:lakshithau95@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ **“Always learning. Always building.”**
+* LinkedIn: https://www.linkedin.com/in/udara-lakshitha/
+* Email: lakshithau95@gmail.com
