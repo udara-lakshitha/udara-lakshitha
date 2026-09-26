@@ -37,4 +37,4 @@ An automated full-stack evaluation ecosystem developed to handle live transactio
 ### 🤝 Connect & Collaborate
 
 * LinkedIn: https://www.linkedin.com/in/udara-lakshitha/
-* Email: lakshithau95@gmail.com
+* Email: udara.lakshitha.ul@gmail.com
